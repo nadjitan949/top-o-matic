@@ -87,7 +87,7 @@ Tous les sons sont **générés procéduralement** via le Web Audio API — aucu
 
 ```
 taupe-o-matic/
-└── whack-a-mole.html   # Tout le jeu en un seul fichier
+└── index.html   # Tout le jeu en un seul fichier
 ```
 
 ---
@@ -95,16 +95,6 @@ taupe-o-matic/
 ## 🚀 Lancer le jeu
 
 Aucune installation requise. Il suffit d'ouvrir le fichier dans un navigateur moderne :
-
-```bash
-# Option 1 — Double-clic sur le fichier
-whack-a-mole.html
-
-# Option 2 — Via un serveur local (recommandé pour éviter les restrictions CORS)
-npx serve .
-# ou
-python -m http.server 8080
-```
 
 > ✅ Compatible Chrome, Firefox, Edge, Safari (desktop & mobile).
 
